@@ -1,0 +1,21 @@
+body {
+    background-color: #e6ebeb!important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif!important;
+    text-align: center;
+}
+
+.oculto {
+    display: none!important;
+}
+
+.contant {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.child {
+    margin: 0 auto;
+    width: 20rem;
+    height: 20rem;
+}
